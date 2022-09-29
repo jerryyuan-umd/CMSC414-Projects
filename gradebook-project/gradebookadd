@@ -1,1 +1,2 @@
-"#!/bin/bash\n java  gradebookadd \$@" 
+#!/bin/bash
+ java  gradebookadd $@
